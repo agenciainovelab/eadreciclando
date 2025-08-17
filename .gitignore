@@ -45,3 +45,27 @@ Thumbs.db
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Laravel
+/vendor
+/node_modules
+/storage/*.key
+/storage/logs
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+/.env
+.env.backup
+
+# Build
+/public/hot
+/public/storage
+/public/assets/backend/icons/
+
+# IDEs
+.idea
+.vscode
+
+# Sistema
+.DS_Store
+Thumbs.db
